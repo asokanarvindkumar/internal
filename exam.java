@@ -4,6 +4,6 @@ public class exam{
             System.out.println(i);
             i++;
         }
-        System.out.println("2");
+        System.out.println("3");
     }
 }
